@@ -1,2 +1,6 @@
 Nacho qlo puta
+<<<<<<< HEAD
 2
+=======
+asddas
+>>>>>>> 2f4097a03027ffe70fd2834aaee8cc576994b542
